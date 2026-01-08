@@ -1,4 +1,4 @@
-# Sales Performance Analysis Dashboard
+## Sales Performance Analysis Dashboard
 
 ## Project Overview
 This project analyzes sales data using Microsoft Excel to uncover revenue trends, product performance, and regional insights.
@@ -14,6 +14,12 @@ This project analyzes sales data using Microsoft Excel to uncover revenue trends
 - Profit Margin: 46%
 - Accounting Software is the highest revenue-generating product
 - West and South regions contribute the highest revenue
+
+## Skills Demonstrated
+- Data cleaning and preparation
+- Pivot table analysis
+- Business insight generation
+- Dashboard design in Excel
 
 ## Dashboard Preview
 ![Dashboard](dashboard.png)
