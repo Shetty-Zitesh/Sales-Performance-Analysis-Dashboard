@@ -16,5 +16,5 @@ This project analyzes sales data using Microsoft Excel to uncover revenue trends
 - West and South regions contribute the highest revenue
 
 ## Dashboard Preview
-(Upload dashboard screenshot here)
+![Dashboard](dashboard.png)
 
